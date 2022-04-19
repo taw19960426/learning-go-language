@@ -1,0 +1,22 @@
+{"level":"info","time":"2022-04-19T14:41:53.820+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:73","msg":"DefaultLogger init success","serviceName":"serviceName"}
+{"level":"info","time":"2022-04-19T14:41:53.841+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:79","msg":"test","serviceName":"serviceName","string":"string","int":3,"time":1}
+{"level":"info","time":"2022-04-19T14:41:53.841+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:85","msg":"test-","serviceName":"serviceName","string":"string","int":1,"time":1}
+{"level":"info","time":"2022-04-19T14:48:09.745+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:73","msg":"DefaultLogger init success","serviceName":"serviceName"}
+{"level":"info","time":"2022-04-19T14:48:09.766+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:79","msg":"test","serviceName":"serviceName","string":"xiaotang","int":3,"time":1}
+{"level":"info","time":"2022-04-19T14:48:09.766+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:85","msg":"test-","serviceName":"serviceName","string":"kk","int":1,"time":1}
+{"level":"info","time":"2022-04-19T14:54:06.919+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:73","msg":"DefaultLogger init success"}
+{"level":"info","time":"2022-04-19T14:54:06.938+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:79","msg":"test","string":"xiaotang","int":3,"time":1}
+{"level":"info","time":"2022-04-19T14:54:06.938+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:85","msg":"test-","string":"kk","int":1,"time":1}
+{"level":"info","time":"2022-04-19T14:55:51.047+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:74","msg":"DefaultLogger init success","serviceName":"192.168.1.199"}
+{"level":"info","time":"2022-04-19T14:55:51.067+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:80","msg":"test","serviceName":"192.168.1.199","string":"xiaotang","int":3,"time":1}
+{"level":"info","time":"2022-04-19T14:55:51.067+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:86","msg":"test-","serviceName":"192.168.1.199","string":"kk","int":1,"time":1}
+{"level":"info","time":"2022-04-19T14:57:01.907+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:74","msg":"DefaultLogger init success","serviceName":"192.168.1.199"}
+{"level":"info","time":"2022-04-19T14:57:01.925+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:80","msg":"test","serviceName":"192.168.1.199","string":"xiaotang","int":3,"time":1}
+{"level":"info","time":"2022-04-19T14:57:31.999+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:74","msg":"DefaultLogger init success","serviceName":"192.168.1.199"}
+{"level":"info","time":"2022-04-19T14:57:32.020+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:80","msg":"test","serviceName":"192.168.1.199","string":"xiaotang","int":3,"time":1}
+{"level":"info","time":"2022-04-19T14:59:11.838+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:74","msg":"DefaultLogger init success","serviceName":"192.168.1.199"}
+{"level":"info","time":"2022-04-19T14:59:11.856+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:80","msg":"test","serviceName":"192.168.1.199","string":"xiaotang","int":3,"time":1}
+{"level":"error","time":"2022-04-19T14:59:11.856+0800","linenum":"F:/go/goCode/src/github.com/xiaoTang/goStudy02/uber-go/main.go:93","msg":"test02","serviceName":"192.168.1.199","string":"x666g","int":4,"time":1}
+{"level":"info","time":"2022-04-19T15:01:28.683+0800","msg":"DefaultLogger init success"}
+{"level":"info","time":"2022-04-19T15:01:28.706+0800","msg":"test","string":"xiaotang","int":3,"time":1}
+{"level":"error","time":"2022-04-19T15:01:28.706+0800","msg":"test02","string":"x666g","int":4,"time":1}
