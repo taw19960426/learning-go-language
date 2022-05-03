@@ -12,12 +12,6 @@
 https://github.com/taw19960426/learning-go-language/tree/main/go-log-collect
 ```
 
-### 2.csdn地址
-
-```c
-
-```
-
 ## 一、日志收集系统背景
 
 ### 1. 项目背景
