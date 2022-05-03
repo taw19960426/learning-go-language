@@ -6,10 +6,10 @@
 
 ## 0、项目地址
 
-### 1.完整项目的GitHub地址
+### 1.完整项目的[GitHub地址](https://github.com/taw19960426/learning-go-language/tree/main/go-log-collect)
 
 ```c
-
+https://github.com/taw19960426/learning-go-language/tree/main/go-log-collect
 ```
 
 ### 2.csdn地址
